@@ -9,9 +9,7 @@ Sempre que a capacidade de processamento do roteador for atingida ou não for po
 ```text
 [Número de pacotes (n)] [Quantidade de bytes]
 [Prioridade do pacote1] [#m1 Tamanho do pacote] [B1] ... [Bm1]
-.
-.
-.
+...
 [Prioridade do pacoten] [#mn Tamanho do pacote] [B1] ... [Bmn]
 ```
 
